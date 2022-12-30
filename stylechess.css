@@ -1,0 +1,8 @@
+.square{
+    background-color: grey;
+    width: 10vh;
+    height: 10vh;
+}
+#board{
+    border-collapse: collapse;
+}
